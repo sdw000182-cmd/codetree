@@ -8,4 +8,3 @@ string = string[:leng - 2] + 'a' + string[leng - 1:]
 	
 print(string)
 
-1`
